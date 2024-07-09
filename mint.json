@@ -75,11 +75,31 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Chat Completions",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/chat-completions/chat-completions"
+      ]
+    },
+    {
+      "group": "Text To Image",
+      "pages": [
+        "api-reference/endpoint/text-to-image/stable-diffusion-xl",
+        "api-reference/endpoint/text-to-image/stable-diffusion-21",
+        "api-reference/endpoint/text-to-image/stable-diffusion-turbo",
+        "api-reference/endpoint/text-to-image/stable-diffusion-xl-turbo",
+        "api-reference/endpoint/text-to-image/stable-diffusion-xl-lighting",
+        "api-reference/endpoint/text-to-image/realvis4lightning"
+      ]
+    },
+    {
+      "group": "Image To Image",
+      "pages": [
+        "api-reference/endpoint/image-to-image/stable-diffusion-xl",
+        "api-reference/endpoint/image-to-image/stable-diffusion-21",
+        "api-reference/endpoint/image-to-image/stable-diffusion-xl-lighting",
+        "api-reference/endpoint/image-to-image/instantid",
+        "api-reference/endpoint/image-to-image/photomaker",
+        "api-reference/endpoint/image-to-image/decorationdesign"
       ]
     }
   ],
