@@ -50,3 +50,4 @@ Install our Github App to auto propagate changes from your repo to your deployme
   //     "url": "https://mintlify.com/blog"
   //   }
   // ],
+multi user edit
