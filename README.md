@@ -51,3 +51,16 @@ Install our Github App to auto propagate changes from your repo to your deployme
   //   }
   // ],
 multi user edit
+
+
+{
+  "group": "Essentials",
+  "pages": [
+    "essentials/markdown",
+    "essentials/code",
+    "essentials/images",
+    "essentials/settings",
+    "essentials/navigation",
+    "essentials/reusable-snippets"
+  ]
+},
